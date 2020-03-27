@@ -1,0 +1,19 @@
+{
+  "name": "palyer_youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YEvhen-SHmatko/palyer_youtube.git"
+  },
+  "author": "Yevhen Shmatko\"yevhen.shmatko@gmail.com\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YEvhen-SHmatko/palyer_youtube/issues"
+  },
+  "homepage": "https://github.com/YEvhen-SHmatko/palyer_youtube#readme"
+}
